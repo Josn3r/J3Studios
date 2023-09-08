@@ -59,7 +59,7 @@ public class MainMenu extends javax.swing.JFrame {
     
     //
         
-    public static final String VERSION_PROGRAM = "1.14.08.23";
+    public static final String VERSION_PROGRAM = "1.07.09.23";
     
         
     
